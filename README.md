@@ -4,8 +4,7 @@
 
 ### 👨‍💻 Sou Analista de Qualidade de Software Sênior e Engenheiro de Automação com mais de 6 anos de experiência como QA, especializado em impulsionar a excelência e a robustez de produtos digitais através de estratégias avançadas de testes e automação.
 
-### 🔭 Atualmente estou trabalhando na Quality Digital
-- Projeto de migração de um sistema legado para Dotnet e Angular do Supermercados Mundial.
+### 🔭 Atualmente sou CEO & Founder da empresa Global Path.
 
 ### 📖 Atualmente estou estudando
 - Automação de testes com Robot Framework e Playwrigth
